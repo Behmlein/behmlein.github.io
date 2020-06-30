@@ -21,5 +21,5 @@
  > Phantasie ist wichtiger als Wissen.
  > Zwei Dinge sind unendlich, das Universum und die menschliche Dummheit, aber bei dem Universum bin ich mir noch nicht ganz sicher.
 
-
+<img src="https://cdn.gamer-network.net/2016/usgamer/skyrim_guide_04.jpg/EG11/thumbnail/1920x1080/format/jpg/quality/65/15-11-2017-skyrim-guide-for-xbox-one-and-ps4-which-races-and-character-builds-are-the-best.jpg"/>
 
