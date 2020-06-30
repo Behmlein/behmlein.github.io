@@ -15,6 +15,11 @@
  * B
 * B
  * C
+ 
+ As Albert Einstein said:
+ 
+ > Phantasie ist wichtiger als Wissen.
+ > Zwei Dinge sind unendlich, das Universum und die menschliche Dummheit, aber bei dem Universum bin ich mir noch nicht ganz sicher.
 
 
 
