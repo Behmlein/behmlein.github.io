@@ -6,11 +6,15 @@
  Ich hoffe das nächste Jahr wird genauso schön wie dieses, aber davon bin ich sehr überzeugt.
  
 ## Dies ist eine Beschreibung von mir
-*Beschreibung:
- *Haarefarbe:Braun
- *Lieblingsserie:Originals
- *Lieblingsfilm:Star-Wars-Rache-Der-Sith
- *Lieblingsspiel:Life-is-Strange
+* Beschreibung:
+ * Haarefarbe:Braun
+ * Lieblingsserie:Originals
+ * Lieblingsfilm:Star-Wars-Rache-Der-Sith
+ * Lieblingsspiel:Life-is-Strange
+* A
+ * B
+* B
+ * C
 
 
 
